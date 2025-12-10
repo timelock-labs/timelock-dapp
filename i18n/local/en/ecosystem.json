@@ -1,0 +1,11 @@
+{
+	"Ecosystem": {
+		"title": "Ecosystem",
+		"subtitle": "Discover projects and partners built with Timelock.",
+		"sponsors": "Sponsors",
+		"partners": "Partners",
+		"FindEcosystemPartner": "Find Our Ecosystem Partner",
+		"noPartners": "No partners yet",
+		"noPartnersDescription": "Partners will be displayed here once available."
+	}
+}

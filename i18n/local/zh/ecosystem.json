@@ -1,0 +1,11 @@
+{
+	"Ecosystem": {
+		"title": "生态伙伴",
+		"subtitle": "探索基于 Timelock 的项目与生态伙伴。",
+		"sponsors": "赞助方",
+		"partners": "合作伙伴",
+		"FindEcosystemPartner": "探索我们的生态伙伴合作伙伴",
+		"noPartners": "暂无合作伙伴",
+		"noPartnersDescription": "合作伙伴信息将在此处显示。"
+	}
+}

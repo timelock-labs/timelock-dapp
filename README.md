@@ -11,8 +11,6 @@
   <a href="https://x.com/TimelockApp">Twitter</a>
 </p>
 
----
-
 ## Overview
 
 Timelock UI is a **blockchain security platform** for managing timelock smart contracts across multiple EVM-compatible networks. It provides a user-friendly interface for deploying, importing, and managing timelock contracts, scheduling transactions, and monitoring on-chain activities.
